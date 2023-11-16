@@ -17,13 +17,13 @@ table {
 }
 
 .container {
-    border: 1px solid red;
+    border: 0.5px solid red;
 }
 
 .col-10 {
-    border: 1px solid red;
+    border: 0.5px solid red;
 }
 
 .col {
-    border: 1px solid red;
+    border: 0.5px solid red;
 }
